@@ -1,0 +1,10 @@
+{
+  "token": "","COMMENT":"unless your replit is private or you are using vsc, use .env for storing the token",
+  "prefix" : "m!", 
+  "db": "mongodb+srv://rlx:rlx@rlx4.lxsal.mongodb.net/myFirstDatabase?retryWrites=true&w=majority ", 
+  "color": "BLUE", 
+    "error": "RED",
+    "success": "GREEN"
+
+  
+  }
