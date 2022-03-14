@@ -230,7 +230,7 @@ client.channels.cache.get(channel).send(message)
   
   
 });
-client.login(process.env.TOKEN);
+client.login(process.env.TOKEN || config.token);
 //If you want to change ur botstatus feel free to comment and i will help you out!
 
 //Lets se all command first 
