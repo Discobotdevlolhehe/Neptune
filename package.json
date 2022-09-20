@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@discordjs/opus": "^0.3.2",
+    "@discordjs/opus": "^0.8.0",
     "ascii-table": "^0.0.9",
     "canvacord": "^5.2.1",
     "canvas": "^2.6.1",
